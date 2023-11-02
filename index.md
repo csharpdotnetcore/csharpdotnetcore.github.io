@@ -1,5 +1,3 @@
-## Welcome to asiful.com
-
 # About Me
 
 I am a Senior Staff Engineer at Charles Schwab in Raleigh, NC.
