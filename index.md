@@ -1,16 +1,16 @@
-## About Me
+### About Me
 
 Over a two-decade long career, have excelled in the art of translating abstract concepts into pragmatic solutions and bringing ambitious visions to life. As a Senior Software Development Engineer in Test/QA Lead, possess a deep understanding of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Expertise spans various testing methodologies, with a focus on developing and executing Functional, Regression, and Performance tests through both automated and manual approaches. Have extensive experience testing client-server systems, web applications, mobile platforms, backend systems, and APIs, while maintaining a proven track record of guiding and managing QA Engineer teams. Professional journey has traversed diverse industries, including FinTech, Healthcare, multinational computer systems and technology companies, as well as the Education sector. Also ventured into freelance consulting as an Information Systems Specialist, enriching my expertise and contributing to a variety of projects.
 
 ***
-## SKILLS	
+### Skill	
 
 
 - [x] Programming Languages: 
 -	Proficient in: C#.Net, Python 3, SQL, VBScript, PL/SQL, Powershell, Markup Languages
 -	Past/ Working Knowledge: TKinter, Flask, Java, Visual Basic® 6.0, VB.Net, ASP.NET, T-SQL, JavaScript, PHP, C/C++, Pascal, Fortran, COBOL, Bash Scripting
 
-** Software:**
+- [x] Software:
 -	Development and CI Tools: Visual Studio & Code, GIT, Splunk, Kafka, PCF, RabbitMQ, Atlassian Stack, Docker, Veracode, TOAD
 -	Testing Tools: Visual Studio Test, PyTest, Selenium, Parasoft SOATest, Parasoft Virtualize, Postman, JMeter, HP UFT, TestComplete, HP QC, QMetry, BugZilla, ApTest Manager, TFS and HP Load Runner
 -	Database: MongoDB, Aerospike, ORACLE, MYSQL, MS SQL Server
@@ -18,11 +18,12 @@ Over a two-decade long career, have excelled in the art of translating abstract 
 -	Web Server: IIS, Apache
 -	Familiar with: Cucumber, RSpec, SOAPUI, Rational Functional Tester, Facilita, EggPlant, Sikuli, ETL, etc.
 
-** Platforms: **   Microsoft Windows, Linux, MacOS, Raspberry Pi
+- [x] Platforms:   Microsoft Windows, Linux, MacOS, Raspberry Pi
 
-** Technical Skills: ** Keen interest in IoT, Networking and Penetration/Security Testing.
+- [x] Technical Skills: ** Keen interest in IoT, Networking and Penetration/Security Testing.
 
-## PROFESSIONAL EXPERIENCE
+***
+## Professional Experiences
 
 Charles Schwab & Co., Inc.		Senior Software Developer – Test	Raleigh, NC	Aug 2015 – Oct 2023
 
@@ -78,23 +79,20 @@ o	Introduction to Programming using C
 -	Developed and tested a bilingual Library Management System using Visual Basic 6.0 and MS Access.
 -	Successfully established a LAN for a small business, handling hardware selection, implementation, cabling, network setup, and troubleshooting.
 
-## PUBLICATIONS	
+## Publication	
 
 “Controlling Electronic Appliances via Phone and Web” – a paper submitted to the AIUB Journal.
 
 
-## PROFESSIONAL TRAINING
+## Professional Training
 
 o	Oracle Certified Professional DBA (course completed)
 o	C#, Python, Java, Visual Basic Programming
 o	Advanced Linux Networking and ISP Setup
 o	HP Quality Center
 
-## EDUCATION
+## Education
 
 o	Master of Science (MS)  in Computer Science, University of Madras, India, 2001.
 o	Bachelor of Science (BS) in Computer Science, University Of Madras, India, 1999.
 
-## PERSONAL	
-
-U.S Citizen. Willing to travel and relocate.
